@@ -1,4 +1,4 @@
-# Reliable-UDP
+# Reliable-Badnet
 The objective is to transfer a file from a client to a server's local directory using a client/server pair. The communication between them should take place via UDP on an extremely unreliable network, and the primary aim is to ensure the successful delivery of files despite the network's unreliability.
 
 In particular, this network has a tendency to:
